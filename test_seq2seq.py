@@ -40,7 +40,7 @@ def test(model_path=forward_model_path):
                     learning_rate,
                     Training=False)
 
-    place_holders, predictions, logits = model.build_model()
+    optimizer, place_holders, predictions, logits, losses = model.build_model()
 
     sess = tf.InteractiveSession()
 
