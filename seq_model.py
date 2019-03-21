@@ -88,7 +88,7 @@ class Chatbot():
                                                        caption_mask*rewards)
             with tf.variable_scope(tf.get_variable_scope(), reuse=False):
                 optimizer = tf.train.AdamOptimizer(self.learning_rate).minimize(pg_loss)
-            losses.upate({"pg": pg_loss})
+            losses.update({"pg": pg_loss})
         else:
             with tf.variable_scope(tf.get_variable_scope(), reuse=False):
                 optimizer = tf.train.AdamOptimizer(self.learning_rate).minimize(cross_entropy)
