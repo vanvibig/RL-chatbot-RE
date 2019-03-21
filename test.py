@@ -9,8 +9,8 @@ reinforcement_model_path = "model/reinforcement/seq2seq"
 forward_model_path = "model/forward/seq2seq"
 reverse_model_path = "model/reverse/seq2seq"
 
-path_to_questions = 'results/sample_input.txt'
-responses_path = 'results/sample_output.txt'
+path_to_questions = 'sample_input.txt'
+responses_path = 'sample_output.txt'
 
 word_count_threshold = 1
 dim_wordvec = 300
