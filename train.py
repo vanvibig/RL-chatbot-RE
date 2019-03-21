@@ -117,7 +117,7 @@ def pg_train(epochs=epochs, checkpoint=False):
         'model/word_vector.bin', binary=True)
     generic_caption, generic_mask = h.generic_batch(
             generic_responses,
-            batch_size, word_to_index,
+            batch_size, word_to_indedx,
             output_sequence_length)
 
 #     dr = Data_Reader()
