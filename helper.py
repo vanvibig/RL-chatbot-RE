@@ -185,46 +185,20 @@ def generic_batch(generic_response,  batch_size,
     return make_batch_target(generic_response, word_to_index, target_sequence_length)
 
 def index2sentence(generated_word_index, prob_logit, ixtoword): 
-    """ if the predicted word is 'unknown,<unk>--index == 3, replace with the second most probable word
-    Also if the predicted word is <pad> representing a pad or <bos> replace with the next most probable word
-    """
+    generated_word_index = list(generated_word_index)
     for i in range(len(generated_word_index)):
-        if generated_word_index[i] == 3 or generated_word_index[i] <= 1:
+        if generated_word_index[i] == 3 or generated_word_index[i] == 0:
             sort_prob_logit = sorted(prob_logit[i])
             curindex = np.where(prob_logit[i] == sort_prob_logit[-2])[0][0]
             count = 1
             while curindex <= 3:
                 curindex = np.where(prob_logit[i] == sort_prob_logit[(-2)-count])[0][0]
-                count += 1
-
+                count+=1
             generated_word_index[i] = curindex
-
-    generated_words = []
+    generated_words = = []
     for ind in generated_word_index:
-        generated_words.append(ixtoword[ind])
-
-    # generate sentence
-    punctuation = np.argmax(np.array(generated_words) == '<eos>') + 1    #The sentence ends where the punctuation <eos> is found The rest of the sentence is truncated
-    generated_words = generated_words[:punctuation]
+        generated_words.append[ixtoword[ind]]
     generated_sentence = ' '.join(generated_words)
-
-    """ Modify the output sentence to take off '<eos>, <bos>, '--' 
-    Start every sentence with a capital letter, replace i, i'm i'd with I, I'm. I'd respectively and end with a full stop '.'
-    """
-    generated_sentence = generated_sentence.replace('<bos> ', '')
-    generated_sentence = generated_sentence.replace('<eos>', '')
-    generated_sentence = generated_sentence.replace('--', '')
-    generated_sentence = generated_sentence.split('  ')
-    for i in range(len(generated_sentence)):
-        generated_sentence[i] = generated_sentence[i].strip() 
-        if len(generated_sentence[i]) > 1:
-            generated_sentence[i] = generated_sentence[i][0].upper() + generated_sentence[i][1:] + '.'
-        else:
-            generated_sentence[i] = generated_sentence[i].upper()
-    generated_sentence = ' '.join(generated_sentence)
-    generated_sentence = generated_sentence.replace(' i ', ' I ')
-    generated_sentence = generated_sentence.replace("i'm", "I'm")
-    generated_sentence = generated_sentence.replace("i'd", "I'd")
 
     return generated_sentence
 
