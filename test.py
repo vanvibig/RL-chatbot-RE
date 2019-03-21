@@ -16,8 +16,8 @@ word_count_threshold = 1
 dim_wordvec = 300
 # dim_hidden = 1000
 dim_hidden = 512
-input_sequence_length = 22
-output_sequence_length = 22
+input_sequence_length = 10
+output_sequence_length = 10
 learning_rate = 0.0001
 
 batch_size = 2
@@ -79,4 +79,4 @@ def test(model_path=forward_model_path):
 forward_model_path = "model/forward/seq2seq"
 if __name__ == "__main__":
     test("model/forward/seq2seq")
-    test("model/forward/seq2seq")
+    # test("model/forward/seq2seq")

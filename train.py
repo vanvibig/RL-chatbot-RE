@@ -27,8 +27,10 @@ reversed_word_count_threshold = 1
 dim_word_vec = 300
 # dim_hidden = 1000
 dim_hidden = 512
-input_sequence_length = 22
-output_sequence_length = 22
+# input_sequence_length = 22
+input_sequence_length = 10
+# output_sequence_length = 22
+output_sequence_length = 10
 learning_rate = 0.0001
 epochs = 1
 # batch_size = 200
@@ -255,6 +257,6 @@ def pg_train(epochs=epochs, checkpoint=False):
 
 if __name__ == "__main__":
     	
-    train(forward_, 200, False)
-    train(reverse_, 200, False)
-    pg_train(200, False)
+    train(forward_, 100, False)
+    train(reverse_, 100, False)
+    pg_train(100, False)
