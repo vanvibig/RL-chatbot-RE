@@ -21,26 +21,18 @@ output_sequence_length = 22
 learning_rate = 0.0001
 
 batch_size = 2
-# batch_size = 1
 
 def test(model_path=forward_model_path):
     testing_data = open(path_to_questions, 'r', encoding='utf-8', errors='ignore')
     word_vectors = KeyedVectors.load_word2vec_format('model/word_vector.bin', binary=True)
 
     _, index_to_word, _ = data_parser.preProBuildWordVocab(word_count_threshold=word_count_threshold)
-    # model = Chatbot(dim_wordvec, len(index_to_word), dim_hidden,
-    #                 batch_size,
-    #                 input_sequence_length, target_sequence_length,
-    #                 Training=False)
-
     model = Chatbot(dim_wordvec, len(index_to_word), dim_hidden,
                     batch_size,
-                    input_sequence_length,
-                    output_sequence_length,
-                    learning_rate,
+                    input_sequence_length, output_sequence_length,
                     Training=False)
 
-    optimizer, place_holders, predictions, logits, losses = model.build_model()
+    place_holders, predictions, logits = model.build_model()
 
     sess = tf.InteractiveSession()
 
