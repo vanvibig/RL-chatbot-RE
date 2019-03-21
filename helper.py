@@ -200,6 +200,9 @@ def index2sentence(generated_word_index, prob_logit, ixtoword):
         generated_words.append(ixtoword[ind])
     generated_sentence = ' '.join(generated_words)
 
+    generated_sentence = generated_sentence.replace('<bos> ', '')
+    generated_sentence = generated_sentence.replace('<eos> ', '')
+
     return generated_sentence
 
 
