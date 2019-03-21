@@ -152,7 +152,7 @@ def pg_train(epochs=epochs, checkpoint=False):
         _, rev_place_holders, _, _, reverse_loss = model.build_model()
         sess2 = tf.InteractiveSession()
         saver2 = tf.train.Saver()
-        saver2.restore(sess2, "model/reversed/seq2seq")
+        saver2.restore(sess2, "model/reverse/seq2seq")
         print("reverse model restored")
 
     dr = Data_Reader(load_list=True)

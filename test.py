@@ -76,5 +76,6 @@ def test(model_path=forward_model_path):
             print('generated_sentence => ', generated_sentence)
             out.write('answer: {}\n\n'.format(generated_sentence))
 
+forward_model_path = "model/forward/seq2seq"
 if __name__ == "__main__":
-    test(reinforcement_model_path)
+    test("model/forward/seq2seq")
