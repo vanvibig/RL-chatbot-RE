@@ -168,8 +168,8 @@ def make_batch_target(batch_target, word_to_index, target_sequence_length):
     for ind, row in enumerate(caption_masks): # set the masks as an array of ones where actual words exist and zeros otherwise
         row[:nonzeros[ind]] = 1
         # print(row)
-        print(caption_masks[0])
-        print(caption_matrix[0])
+        # print(caption_masks[0])
+        # print(caption_matrix[0])
         
     return caption_matrix, caption_masks
     
