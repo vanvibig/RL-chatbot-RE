@@ -9,7 +9,7 @@ reinforcement_model_path = "model/reinforcement/seq2seq"
 forward_model_path = "model/forward/seq2seq"
 reverse_model_path = "model/reverse/seq2seq"
 
-path_to_questions = 'results/sample_output_RL.txt'
+path_to_questions = 'results/sample_input.txt'
 responses_path = 'results/sample_output.txt'
 
 word_count_threshold = 1
@@ -19,6 +19,7 @@ dim_hidden = 512
 input_sequence_length = 22
 target_sequence_length = 22
 
+# batch_size = 2
 batch_size = 1
 
 def test(model_path=forward_model_path):

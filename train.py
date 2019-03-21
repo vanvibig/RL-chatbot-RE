@@ -149,7 +149,7 @@ def pg_train(epochs=epochs, checkpoint=False):
         model = Chatbot(dim_word_vec, len(word_to_indedx), dim_hidden,
                         batch_size, input_sequence_length,
                         output_sequence_length, learning_rate)
-        _, rev_place_holder, _, _, reverse_loss = model.build_model()
+        _, rev_place_holders, _, _, reverse_loss = model.build_model()
         sess2 = tf.InteractiveSession()
         saver2 = tf.train.Saver()
         saver2.restore(sess2, "model/reversed/seq2seq")
