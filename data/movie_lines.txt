@@ -1,0 +1,1000 @@
+L1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin chao
+L2 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin chao
+L3 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin chao
+L4 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin chao
+L5 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin chao
+L6 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau khoe khong
+L7 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khoe khong
+L8 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khoe con ban thi sao
+L9 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khoe con ban thi sao
+L10 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi on cam_on
+L11 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi on cam_on
+L12 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau an gi chua
+L13 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau an gi chua
+L14 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chua nua con cau an chua
+L15 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chua nua con cau an chua
+L16 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay minh di an di
+L17 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay minh di an di
+L18 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ di thoi nao
+L19 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ca co biet boi khong
+L20 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tat_nhien la co roi
+L21 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tat_nhien la co roi
+L22 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ con chim thi sao
+L23 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ con chim thi sao
+L24 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tuy loai cau oi
+L25 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tam_biet
+L26 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tam_biet hen gap lai
+L27 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chao buoi sang
+L28 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chao buoi sang nhe
+L29 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ que ban o dau
+L30 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi o Viet_Nam nhe
+L31 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi o Viet_Nam nhe
+L32 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o tat_nhien roi
+L33 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co biet nau com khong
+L34 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong biet
+L35 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ trung_hop ngau_nhien qua phai khong
+L36 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chi la trung_hop thoi
+L37 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co nghi ong ta se nghe theo loi goi khong
+L38 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong chac
+L39 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau noi co 9 cai tat_ca
+L40 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nguoi ban cua chung_ta o singapore khang_dinh vay
+L41 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nguoi ban cua chung_ta o singapore khang_dinh vay
+L42 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nguoi ban cua cau co biet hoi brethern hop o noi nao khong
+L43 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nguoi ban cua cau co biet hoi brethern hop o noi nao khong
+L44 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh ta khong noi ra dieu do
+L45 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ anh ta khong noi ra dieu do
+L46 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay la han_ta biet gia_tri cua thong_tin day
+L47 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ah chao do_doc ngai cho goi toi
+L48 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung co vai thu cho anh day
+L49 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ da tung nhin thay tia chop xanh bao_gio chua gibbs
+L50 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi da tung nghe noi rat hiem khi xay ra
+L51 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung minh con lanh_nhat voi nhau den bao_gio_day
+L52 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau khi cuu duoc jack moi chuyen se ket_thuc
+L53 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau noi gi ve tinh_trang cua cai day nay
+L54 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi thay no binh_thuong ma
+L55 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau hieu chua
+L56 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ da da
+L57 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau dang o trong chiec ruong cua davy jones
+L58 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi biet chu
+L59 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi thay tau cua ta roi ngay dang kia
+L60 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dau
+L61 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ con day la ai
+L62 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ day la nguoi cua toi
+L63 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ho khong nguy_hiem voi chung_ta phai khong
+L64 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ voi ho ta cung chi nhu nhung bong_ma thoi
+L65 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ het nuoc
+L66 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung noi la ruou cung the
+L67 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dung noi la ruou cung the
+L68 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ruou cung het roi
+L69 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao cau khong he noi voi toi cau dinh lam the nay
+L70 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ do la ganh nang cua toi
+L71 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi rat tiec jack nhung hinh_nhu co mot nguoi ban cu muon gap cau do
+L72 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cu gap ban cu hoai the nay chac toi chet mat
+L73 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cu gap ban cu hoai the nay chac toi chet mat
+L74 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co_hoi cho cau kiem_chung do
+L75 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay cau muon toi tiet_lo dieu gi
+L76 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tat_ca
+L77 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da xac_nhan dieu do
+L78 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xac_nhan cai gi
+L79 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ bay_gio cau la thuyen_truong
+L80 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi u
+L81 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi u
+L82 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay thay cho cua toi o shipwreck cove
+L83 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau ay da noi gi voi toi
+L84 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau ay muon toi lam thuyen_truong
+L85 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ di di toi se theo sau
+L86 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau noi_doi
+L87 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ noi nay da bi lo
+L88 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ neu cau co cach tot hon thi lam_on noi ra di
+L89 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ neu cau co cach tot hon thi lam_on noi ra di
+L90 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ de thoi
+L91 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ de thoi
+L92 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin moi
+L93 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau noi cai gi the ha
+L94 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong co gi
+L95 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ mon no cua nguoi van phai tra
+L96 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mon no do da thanh_toan xong roi cau voi vai su tro_giup
+L97 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau lay toi chu
+L98 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ day la luc noi_chuyen do sao
+L99 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ day la luc noi_chuyen do sao
+L100 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co_the chi con luc nay thoi
+L101 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lam dam_cuoi cho chung_toi
+L102 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin_loi toi ban roi
+L103 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co dong_y lay toi lam chong khong
+L104 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi dong_y
+L105 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau chang lam duoc gi neu khong co chia_khoa dau
+L106 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ buon qua toi co roi
+L107 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cho toi biet cau co so chet khong
+L108 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau thi sao
+L109 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau thi sao
+L110 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cam_thay the_nao nam su song va cai chet trong long ban_tay
+L111 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co phai no kia khong
+L112 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u chinh no
+L113 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ u chinh no
+L114 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao no o do nhi
+L115 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau la ai
+L116 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi la mot bi_mat
+L117 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi muon noi
+L118 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay noi di
+L119 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau hay xem day nhu nha minh
+L120 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang cam_on nhieu
+L121 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ty_thi gi day
+L122 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ban cung
+L123 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ban cung
+L124 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin moi
+L125 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hay nho loi toi
+L126 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi nho roi
+L127 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi muon gap cuop_bien mot lan cho biet
+L128 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghi lai di cau do la nhung ke thap_hen trac_tang bon chung the day
+L129 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ kia mot be trai co mot be trai duoi bien
+L130 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co nguoi kia
+L131 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co nguoi kia
+L132 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ keo no len tau
+L133 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ keo no len tau
+L134 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ no con tho
+L135 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lay chua toi
+L136 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyen gi vay
+L137 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chuyen gi vay
+L138 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong sao dau ten toi la elizabeth
+L139 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong sao dau ten toi la elizabeth
+L140 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ will
+L141 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ will
+L142 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi se trong_chung cau will
+L143 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ no co noi gi khong
+L144 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ten no la will toi chi biet co vay
+L145 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong sao chu
+L146 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang vang
+L147 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co qua cho cau day
+L148 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ oi dep qua
+L149 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ oi dep qua
+L150 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhung nhan_dip gi vay
+L151 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhung nhan_dip gi vay
+L152 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mot nguoi ban can gi phai co dip
+L153 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ mot nguoi ban can gi phai co dip
+L154 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that toi da mong cau co_the mac no de du le hom_nay
+L155 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ that toi da mong cau co_the mac no de du le hom_nay
+L156 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tuyet_voi
+L157 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ elizabeth the_nao roi
+L158 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kho noi qua
+L159 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ rat vui khi gap lai cau
+L160 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chao cau
+L161 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nho chuyen loi khen cua toi den thay cua cau
+L162 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thua vang
+L163 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ve ngay ta gap nhau cau nho khong
+L164 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lam_sao toi co_the quen
+L165 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ben tau nay cam thuong_dan
+L166 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin_loi toi khong biet
+L167 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau chi thay mot con tau co buom den
+L168 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phai cau noi the khong
+L169 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ phai cau noi the khong
+L170 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong
+L171 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong
+L172 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhu toi noi khong co tau that nao ma di kip chiec lnterceptor
+L173 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau noi_doi
+L174 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ neu do la su_that cau da khong noi ra
+L175 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ neu do la su_that cau da khong noi ra
+L176 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau khong tin to sao
+L177 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong tin to sao
+L178 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ a mot_chut
+L179 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhay xuong cuu nguoi di
+L180 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi dau biet boi
+L181 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau that dang khinh
+L182 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chi la loi_noi thoi
+L183 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ trong cau quen_quen toi da thay cau dau chua
+L184 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong biet nua
+L185 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong biet nua
+L186 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ neu vay thi ep cau quen toi cung khong nen xin_loi cau
+L187 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ anh ban co nghi la khon_ngoan khi dam dau voi cuop_bien khong
+L188 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong biet
+L189 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dung la cau cung gioi gioi lam nhung ne co kha khong
+L190 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ neu toi buoc qua day
+L191 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ neu toi buoc qua day
+L192 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kha lam
+L193 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ai lam ra nhung thu nay
+L194 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi lam
+L195 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi da thay no 8 nam truoc
+L196 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that the a
+L197 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ that the a
+L198 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc thoi neu no khong gia_tri gi thi toi cung chang nen giu no nua
+L199 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc thoi neu no khong gia_tri gi thi toi cung chang nen giu no nua
+L200 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong
+L201 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong
+L202 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau ten gi
+L203 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau ten gi
+L204 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ elizabeth toi la dan IT
+L205 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ elizabeth toi la dan IT
+L206 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dan IT u nghe hay day
+L207 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dan IT u nghe hay day
+L208 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rat nhieu dieu thu_vi day
+L209 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ rat nhieu dieu thu_vi day
+L210 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe that hap_dan lam_sao
+L211 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nghe that hap_dan lam_sao
+L212 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tat_nhien roi
+L213 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ a thi_ra do la ly_do
+L214 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ly_do chang an_nhap gi den viec nay
+L215 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dieu te_hai nhat xay ra thi sao
+L216 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cu theo luat ma lam
+L217 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tai_sao
+L218 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong biet
+L219 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da toan_tinh dieu nay tu dau tu khi cau biet ten toi
+L220 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung vay
+L221 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau thay the_nao
+L222 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dang song
+L223 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dang song
+L224 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau thay gi nao
+L225 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau thay gi nao
+L226 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mau trang can phong
+L227 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao cau khong choi mot bai di nao
+L228 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau thich to choi bai nao
+L229 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau thich to choi bai nao
+L230 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cua wagner
+L231 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cua wagner
+L232 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin chon bai
+L233 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin chon bai
+L234 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tuy cau
+L235 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ to co_the hoi mot cau khong
+L236 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u
+L237 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin_loi toi den tre
+L238 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong sao
+L239 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ moi thu on ca chu
+L240 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang toi on
+L241 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau nghe toi chu
+L242 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co lon va ro
+L243 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co lon va ro
+L244 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi
+L245 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi
+L246 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang da ro
+L247 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ walter chung_ta phai di bao_xa
+L248 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nguon tin_hieu cach 8km ve phia tay nhung o mot do cao dang_ke day
+L249 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ta co_the co mot cho cho khu dinh_cu moi ngay day
+L250 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ de xem da
+L251 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ai da trong chung chu
+L252 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ an di
+L253 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ thuc_su la khong co cach nao de khuech_dai tin_hieu sao
+L254 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ se khong duoc neu khong ngoai tuyen de sua chua va sac lai pin
+L255 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ se khong duoc neu khong ngoai tuyen de sua chua va sac lai pin
+L256 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ no se mat bao_lau the
+L257 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ no se mat bao_lau the
+L258 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong biet chac la vai gio
+L259 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong biet chac la vai gio
+L260 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nho bam theo doan day
+L261 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau nghe thay chu
+L262 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe gi
+L263 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nghe gi
+L264 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong co gi ca
+L265 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong co gi ca
+L266 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong tieng chim tieng_dong_vat
+L267 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong tieng chim tieng_dong_vat
+L268 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong gi ca
+L269 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong gi ca
+L270 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho da cham lai
+L271 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cai quai gi the
+L272 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duong_nhu no la mot loai phi_thuyen
+L273 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau on chu
+L274 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u toi on
+L275 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ a lo la toi day
+L276 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang gi nao
+L277 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vang gi nao
+L278 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi gap rac_roi roi
+L279 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung_toi co bi lay_nhiem khong
+L280 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh se biet ngay thoi
+L281 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ anh se biet ngay thoi
+L282 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co bao_nhieu di_dan the
+L283 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co bao_nhieu di_dan the
+L284 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hon hai ngan
+L285 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hon hai ngan
+L286 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Okay
+L287 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ thuong thi bao_lau bao moi tan
+L288 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhieu ngay nhieu tuan nhieu thang khong_chung nhung cu co thu di khong_chung se gap may
+L289 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ do la gi neu khong phai la tinh_yeu chu
+L290 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ la trach_nhiem
+L291 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ la trach_nhiem
+L292 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi biet ro hon day
+L293 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung con song a
+L294 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung dang cho_doi that day
+L295 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung dang cho_doi that day
+L296 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho cai gi
+L297 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cho cai gi
+L298 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung dang cho cai gi ha david
+L299 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung dang cho cai gi ha david
+L300 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mot nguoi me
+L301 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cole anh dau roi
+L302 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi tim thay roi sarge
+L303 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ niem tin cua anh la gi ha david
+L304 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ su sang_tao
+L305 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ su sang_tao
+L306 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ do la bai masterful
+L307 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ do la bai masterful
+L308 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung the
+L309 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da tha no dung khong
+L310 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u dung vay
+L311 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da lam gi
+L312 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong_the noi duoc
+L313 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin chao_mung toi co_the giup gi duoc cho cau
+L314 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bat ti nhac duoc khong
+L315 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ bat ti nhac duoc khong
+L316 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin moi lua_chon
+L317 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin moi lua_chon
+L318 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhac_kich das
+L319 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay thoi ha
+L320 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u vay thoi
+L321 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ong khong phien chu
+L322 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cu tu_nhien
+L323 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co chuyen gi ha peter
+L324 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyen cua thang anh toi no can cau giup
+L325 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chuyen cua thang anh toi no can cau giup
+L326 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi giup the_nao duoc
+L327 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi giup the_nao duoc
+L328 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi nghi cau nen toi clinton noi_chuyen truc_tiep voi no di
+L329 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhung cau tung la canh_sat chu
+L330 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phai toi di tuan khap 6 quan nhung quyet_dinh dung lai
+L331 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ phai toi di tuan khap 6 quan nhung quyet_dinh dung lai
+L332 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ma sao cau lai nghi the
+L333 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ma sao cau lai nghi the
+L334 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong thich ke chi_tiet
+L335 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong thich ke chi_tiet
+L336 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the cau dinh vao_vu lam_an nao a
+L337 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the cau dinh vao_vu lam_an nao a
+L338 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cung khong han
+L339 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the vo cau dau roi
+L340 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi thuy_chung voi hoi FA
+L341 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi thuy_chung voi hoi FA
+L342 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hoi FA
+L343 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hoi FA
+L344 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nghe thu_vi day
+L345 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ alo
+L346 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao co
+L347 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao co
+L348 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ muon gi a
+L349 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ muon gi a
+L350 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi muon cau tra 10 trieu do
+L351 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi muon cau tra 10 trieu do
+L352 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong tra duoc thu toi chang co
+L353 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong tra duoc thu toi chang co
+L354 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the dinh tra_gia bao_nhieu
+L355 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the dinh tra_gia bao_nhieu
+L356 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi chang tra_gia dau kha_nang cua toi la 400 do
+L357 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi chang tra_gia dau kha_nang cua toi la 400 do
+L358 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the ra cau chi co the vay 400 cung duoc
+L359 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the ra cau chi co the vay 400 cung duoc
+L360 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ truoc khi chuyen tien toi muon dam_bao cau se tra
+L361 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ truoc khi chuyen tien toi muon dam_bao cau se tra
+L362 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u duoc roi toi se tra
+L363 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ alo
+L364 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tien toi dau
+L365 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tien toi dau
+L366 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o trong xe toi khong muon lam uot no
+L367 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ o trong xe toi khong muon lam uot no
+L368 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tot gio de tien o do di bo ra duong columbia mau
+L369 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the cau nho cai xe khong
+L370 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co no do dang kia
+L371 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co no do dang kia
+L372 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho co hai nguoi dan_ong a
+L373 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cho co hai nguoi dan_ong a
+L374 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phai
+L375 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhin coi kia quan_ao gi nhin tom the kia
+L376 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cai gi
+L377 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cai gi
+L378 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong co gi
+L379 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co muon an hamburger hay gi do khong
+L380 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong an thit
+L381 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong an thit
+L382 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay thoi rat vui duoc gap cau
+L383 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay thoi rat vui duoc gap cau
+L384 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong co bao la minh nhin an nhe
+L385 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong co bao la minh nhin an nhe
+L386 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u vay di kiem cai gi an da
+L387 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau ngu o dau
+L388 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tron o thu_vien la khong hay roi
+L389 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tron o thu_vien la khong hay roi
+L390 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho do ngon ma
+L391 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong can tiec gi cho toi dau
+L392 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau co_ve nghiem_tuc nhi chac tai lam canh_sat
+L393 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ong co_ve nghiem_tuc nhi chac tai lam canh_sat
+L394 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong nghi the
+L395 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong nghi the
+L396 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao the cau nghi toi khong du de lam tham_tu chac
+L397 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao the cau nghi toi khong du de lam tham_tu chac
+L398 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tat_nhien la du tai toi chang muon truyen_cam_hung sai_lam
+L399 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co that la cau khong muon so da hay gi do khong
+L400 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi biet cac cau hay dau_doc may thang da den nhu toi bang so da
+L401 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi biet cac cau hay dau_doc may thang da den nhu toi bang so da
+L402 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhung thoi chi cho xin coc nuoc_loc vay
+L403 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ con khong an thit la sao
+L404 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tai vo cu cua toi cung toan an_chay
+L405 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong noi tu_te duoc a
+L406 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin loi
+L407 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau lam o day a
+L408 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang
+L409 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau muon gi
+L410 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi muon hoi ve leila
+L411 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi muon hoi ve leila
+L412 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai
+L413 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ai
+L414 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mot co gai
+L415 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi thay con bo_cau truoc
+L416 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay cau khong mo ra a
+L417 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay cau khong mo ra a
+L418 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong toi nghi chac la so rac bon tre say_xin toi_qua de lai
+L419 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ma cau doc sach gi the
+L420 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khoi an_ui nhau di
+L421 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi la dien_vien
+L422 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u thay cau cung quen_quen
+L423 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ u thay cau cung quen_quen
+L424 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co_the toi cung dong vai quang_cao ma
+L425 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung la ai
+L426 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hai nguoi
+L427 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau lam the that a
+L428 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phai duong_nhien la lam duoc
+L429 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ phai duong_nhien la lam duoc
+L430 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ minh trao_doi nhe
+L431 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ minh trao_doi nhe
+L432 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc
+L433 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao cau biet toi co dinh vao
+L434 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ moi thu cau rat ky_la ma
+L435 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ moi thu cau rat ky_la ma
+L436 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi chua dong 1 ngon tay len leila
+L437 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi chua dong 1 ngon tay len leila
+L438 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hai nguoi do la ai
+L439 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hai nguoi do la ai
+L440 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung khong phai nguoi
+L441 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung khong phai nguoi
+L442 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao cau gap chung
+L443 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao cau gap chung
+L444 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o mot tiem bang dia gan nha toi
+L445 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau di cung toi duoc khong
+L446 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi cho chim an da
+L447 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ray
+L448 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ gi the
+L449 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ gi the
+L450 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ten mot dua do
+L451 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ten mot dua do
+L452 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dua nao ga ao xanh hay ao do
+L453 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the cau o dau
+L454 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chang biet duoc
+L455 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chao anh ban
+L456 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xin chao buoi sang tot_lanh nhe
+L457 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau song gan day a
+L458 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lam o quanh day
+L459 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lam o quanh day
+L460 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho nao
+L461 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cho nao
+L462 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ben goc duong ben kia
+L463 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nghi huu roi
+L464 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the gio lam cho ai gia_dinh a
+L465 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the gio lam cho ai gia_dinh a
+L466 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u buon_ban thoi
+L467 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau tung phuc_vu o quan_doi a
+L468 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang dong quan o duc
+L469 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vang dong quan o duc
+L470 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the gio cau lam gi
+L471 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the gio cau lam gi
+L472 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi co viec_lam voi thang ban chuyen lam banh_mi
+L473 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi muon biet so dien_thoai cua dich_vu sua ong east
+L474 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khu_vuc nao
+L475 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khu_vuc nao
+L476 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ east
+L477 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co sao khong
+L478 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ van on
+L479 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ van on
+L480 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao co cai nay trong cap
+L481 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao co cai nay trong cap
+L482 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co gi dau co moi cuon sach voi vai do_nghe thoi
+L483 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ thay thich phai khong
+L484 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o thi sao lai khong thich
+L485 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao phai doi
+L486 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ doi co_hoi
+L487 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau lam cho ai the
+L488 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong noi duoc
+L489 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong noi duoc
+L490 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thoi duoc roi
+L491 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong co giay_phep thi cau khong co tham_quyen
+L492 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ma nghi huu roi the nen cau lam the_la bat_hop_phap day
+L493 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ma nghi huu roi the nen cau lam the_la bat_hop_phap day
+L494 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dao nay thay hai nguoi_than nhau nhi
+L495 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dao nay thay hai nguoi_than nhau nhi
+L496 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ biet gi khong
+L497 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ biet gi khong
+L498 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong co gi nao
+L499 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the la co ke_hoach
+L500 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dun
+L501 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dung
+L502 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau noi gi the
+L503 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau noi gi the
+L504 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau rat tu_te do
+L505 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nha o thanh dao deu mau do ca a
+L506 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phai
+L507 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ phai
+L508 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mau giong nhu mon ga nuong o day
+L509 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ mau giong nhu mon ga nuong o day
+L510 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay chung_ta nen thu mot_chut
+L511 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay chan cau sao roi
+L512 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong sao bay_gio cau di dau
+L513 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong sao bay_gio cau di dau
+L514 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ huong do
+L515 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ may nguoi do la ai vay
+L516 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chac la ho den de hoan_nghenh chung_ta
+L517 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay tranh duong duong nay khong phai de cac anh di
+L518 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ y anh la gi
+L519 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ y anh la gi
+L520 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_toi don duong de hoan_nghenh anh_hung khang_chien nhat
+L521 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung_toi don duong de hoan_nghenh anh_hung khang_chien nhat
+L522 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_toi cung la anh_hung danh nhat ma
+L523 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau thuoc quan_doi nao
+L524 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi thuoc hai_quan
+L525 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co_the giai_quyet tat_ca nhu_cau cho cau
+L526 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau that la tot_bung
+L527 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khi nao toi co_the gap
+L528 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau gap the
+L529 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong ngo anh_em ta con co_the gap lai nhau
+L530 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dai_ca neu khong co anh thi em da chet lau roi
+L531 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ manh dan van chua lay ra duoc sao
+L532 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u
+L533 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ u
+L534 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bac_si noi lay ra rat la nguy_hiem
+L535 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ no chi doi_khi bi dau thoi
+L536 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ day cai nay co_le co_the giup cau bot dau
+L537 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ la hang tot day
+L538 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that khong
+L539 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ a con_gai cau sao roi
+L540 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ no da chet roi
+L541 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ no da chet roi
+L542 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao vay
+L543 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao vay
+L544 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong muon nhac lai chuyen do
+L545 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau hay coi_chung suc_khoe cua minh
+L546 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang
+L547 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay cau khong sao chu
+L548 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi khong sao
+L549 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lay tien nay di kham bac_si di
+L550 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai can tien cua cau
+L551 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi chuyen gi da xay ra
+L552 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co mot dai_uy nguoi my tan_cong chung_toi
+L553 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co mot dai_uy nguoi my tan_cong chung_toi
+L554 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ moi chuyen deu on khong co van_de gi dau
+L555 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ moi chuyen deu on khong co van_de gi dau
+L556 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ han danh nguoi roi dua tien nhung chung_toi khong co lay
+L557 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cac vi muon uong gi
+L558 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bia bon chai bia
+L559 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay cau
+L560 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuyen gi the
+L561 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chuyen gi the
+L562 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau co muon khieu_vu khong
+L563 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co muon khieu_vu khong
+L564 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc thoi
+L565 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ han nhin co_ve thap doi_voi toi
+L566 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ doi_voi cau thi ai cung thap ma
+L567 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau muon gi
+L568 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thoi nao cau muon danh toi a
+L569 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ len day
+L570 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang toi se len ngay
+L571 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay noi cho han biet luat di
+L572 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi duoc roi
+L573 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi da noi cau roi la khong duoc dung cui_cho
+L574 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cui_cho cung khong duoc dung the thi danh the_nao
+L575 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay toi dung tay khong vay
+L576 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong duoc phai dung gang_tay
+L577 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong duoc phai dung gang_tay
+L578 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay toi khong danh nua
+L579 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong phai ong noi khong duoc dung chan sao
+L580 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bay_gio thi duoc hai ben deu co_the dung chan
+L581 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong biet day thoi o que toi con co nhieu nguoi danh gioi hon toi
+L582 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that sao
+L583 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tien do dau co gia_tri gi
+L584 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co con hon khong
+L585 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chua an com a
+L586 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ day lay di mua com di
+L587 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da di dau vay
+L588 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chi di day di do chut thoi
+L589 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dai_ca anh xem nay
+L590 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co chuyen gi vay
+L591 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co chuyen gi vay
+L592 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang cai nay bi hu roi
+L593 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau di mua chut gi de anh_em minh nham_nhi di
+L594 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ da duoc
+L595 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co doi khong
+L596 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong
+L597 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co thay han khong
+L598 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong thay co chuyen gi the
+L599 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong thay co chuyen gi the
+L600 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi can tra tien cho han
+L601 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ bay_gio chung_ta nen lam gi
+L602 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau mau di tim chu ay toi dua dai tham di benh_vien
+L603 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau mau di tim chu ay toi dua dai tham di benh_vien
+L604 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc toi se di ngay
+L605 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cam lay
+L606 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong toi khong_the nhan
+L607 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong toi khong_the nhan
+L608 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi nhan di
+L609 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi nhan di
+L610 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhung toi
+L611 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhung toi
+L612 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay xem nhu toi cho cau muon
+L613 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hay xem nhu toi cho cau muon
+L614 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay la de toi lam_viec cho cau
+L615 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hay la de toi lam_viec cho cau
+L616 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ e_rang toi khong_the nhan
+L617 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ e_rang toi khong_the nhan
+L618 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ so tien nay toi khong lay dau
+L619 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ so tien nay toi khong lay dau
+L620 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ neu ma nhu the vay duoc roi viec thi co nhung do la mot viec kho nhoc
+L621 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ neu ma nhu the vay duoc roi viec thi co nhung do la mot viec kho nhoc
+L622 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kho nhu the_nao
+L623 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ kho nhu the_nao
+L624 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dam thuy_thu nguoi my tim nguoi chiu_don de ho giai_tri trong mot hai ngay
+L625 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dam thuy_thu nguoi my tim nguoi chiu_don de ho giai_tri trong mot hai ngay
+L626 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lam nguoi chiu_don
+L627 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lam nguoi chiu_don
+L628 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ phai cau thay khong anh_chang do bi danh rat tham
+L629 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ phai cau thay khong anh_chang do bi danh rat tham
+L630 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co_le viec nay thich_hop voi toi
+L631 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay khi nao toi co_the bat dau
+L632 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh co_the bat_dau ngay bay_gio neu anh muon
+L633 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ai day
+L634 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ la toi
+L635 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ la toi
+L636 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ la cau a moi vao nha ngoi
+L637 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ la cau a moi vao nha ngoi
+L638 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc
+L639 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc
+L640 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi co lam_phien cau khong
+L641 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co lam_phien khong
+L642 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong sao
+L643 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong sao
+L644 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi muon hoi cau ngay_mai cau se den quan bar do nua ha
+L645 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi muon hoi cau ngay_mai cau se den quan bar do nua ha
+L646 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang toi da hua roi
+L647 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi rat yeu_men cau
+L648 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that u
+L649 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co viec muon thuong_luong voi cau
+L650 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ con chuyen gi de thuong_luong
+L651 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ bo qua chuyen do di
+L652 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co viec toi muon nho cau lam_chu
+L653 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co viec em muon nho anh lam_chu
+L654 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau muon hoi y_kien toi
+L655 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau muon hoi y_kien toi
+L656 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung vay toi da yeu mot nguoi con_gai
+L657 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dung vay toi da yeu mot nguoi con_gai
+L658 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that sao
+L659 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ that sao
+L660 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang cau phai chiu trach_nhiem day
+L661 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vang cau phai chiu trach_nhiem day
+L662 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vay cau phai cam_on toi moi phai
+L663 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ vay cau phai cam_on toi moi phai
+L664 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau biet khong co ay xinh_dep lam nhung ma
+L665 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau biet khong co ay xinh_dep lam nhung ma
+L666 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhung ma cai gi
+L667 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhung ma cai gi
+L668 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co ay chua 18
+L669 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co ay chua 18
+L670 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o
+L671 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ o
+L672 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thi cau hay cho co ay mot co_hoi
+L673 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ thi cau hay cho co ay mot co_hoi
+L674 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung dung lam phai cho co ay mot co_hoi
+L675 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khi nao thi toi dua co ay den ra_mat duoc
+L676 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tuy cau thoi
+L677 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tuy cau thoi
+L678 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co ay dang o ben ngoai de toi dua co ay vao
+L679 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co ay dang o ben ngoai de toi dua co ay vao
+L680 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chuan_bi het roi a
+L681 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ de toi di mua it ruou va do nham
+L682 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc cau di di
+L683 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chon loai tot nhat nhe
+L684 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ di_nhien toi con nho cau thich loai nao ma
+L685 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xin_loi cau mua gi
+L686 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cho toi mot binh ruou cao_luong va mot con ga quay
+L687 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cho toi mot binh ruou cao_luong va mot con ga quay
+L688 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co ngay
+L689 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chay di chay di
+L690 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ di_chuyen nao chay di
+L691 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ di
+L692 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi se tim_kiem o huong bac
+L693 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi se tim_kiem o huong bac
+L694 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi
+L695 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cai quai gi the
+L696 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ta phai di thoi shu
+L697 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ta phai di thoi shu
+L698 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hoat_dong di nao
+L699 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hoat_dong di nao
+L700 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ kimbral dang o cho quai nao the
+L701 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ kimbral dang o cho quai nao the
+L702 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau den cham 40 giay roi day kimbral
+L703 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau den cham 40 giay roi day kimbral
+L704 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ di thoi di
+L705 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ di thoi di
+L706 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau da o cho nao the
+L707 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da o cho nao the
+L708 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mot noi tuyet dep
+L709 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ no co_the xay ra ma khong lien_quan den thuat_toan dung do_loi cho toi
+L710 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau muon vien ra may cai co thuat_toan nay trong dau cau
+L711 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau muon vien ra may cai co thuat_toan nay trong dau cau
+L712 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau phai di khoi day
+L713 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ da noi voi ong roi chung_ta khai_trien qua som
+L714 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau se ngoi do va trach_mang toi hay quay lai lam_viec
+L715 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau se ngoi do va trach_mang toi hay quay lai lam_viec
+L716 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau toi ngu_ngoc noi the_nao
+L717 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau toi ngu_ngoc noi the_nao
+L718 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi ngu_ngoc
+L719 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi thich nhung dieu khong_the
+L720 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tro_choi nay that thu_vi
+L721 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tro_choi nay that thu_vi
+L722 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tai_sao cau lai nghi rang cau se luon thang
+L723 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tai_sao cau lai nghi rang cau se luon thang
+L724 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ boi_vi toi da choi tu khi toi len bon
+L725 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ boi_vi toi da choi tu khi toi len bon
+L726 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ va ong moi bat_dau tap choi cach day hai nam
+L727 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ qua day giup toi ty duoc khong
+L728 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ gi nao
+L729 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ gi nao
+L730 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi moi nguoi chung_ta hay thiet_lap va bat_dau lai sau nam phut
+L731 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi moi nguoi chung_ta hay thiet_lap va bat_dau lai sau nam phut
+L732 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ Okay
+L733 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ okay
+L734 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung lo_lang cau se lam tot ma
+L735 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dung lo_lang cau se lam tot ma
+L736 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cam_on
+L737 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi khong nghi se gap cau o day
+L738 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cong_viec cua cau lam cau ban_ron hon to roi
+L739 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cong_viec cua cau lam cau ban_ron hon to roi
+L740 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ai biet la lam chuyen_gia an_ninh qua ton thoi_gian
+L741 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co_the giup gi cho cau
+L742 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ yusheng dang gap rac_roi
+L743 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi rat vui vi cau o day
+L744 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi anh ban
+L745 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ day la gi
+L746 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ han la noi danh cho nguoi chien_thang
+L747 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ han la noi danh cho nguoi chien_thang
+L748 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ shu bien mat khong vet_tich cau co duoc gi roi
+L749 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ shu bien mat khong vet_tich cau co duoc gi roi
+L750 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chi ho cua cau ta noi rang co ay da co goi cho ca hai nguoi suot 18 tieng roi
+L751 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chi ho cua cau ta noi rang co ay da co goi cho ca hai nguoi suot 18 tieng roi
+L752 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau da tim duoc gi ve bua tiec do
+L753 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da tim duoc gi ve bua tiec do
+L754 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong co bang an_ninh khong gi ca
+L755 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong co bang an_ninh khong gi ca
+L756 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi toi se xem_xet no
+L757 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau phai tap_trung vao 2 dieu quan_trong de vuot_nguc thanh_cong
+L758 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung la gi
+L759 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung la gi
+L760 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thu nhat nam ro bo_cuc nha_tu thu hai hieu duoc lich_trinh
+L761 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau la cai_nguc sao
+L762 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong khong phai
+L763 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi can cau thuyet_phuc no dua cai do cho toi
+L764 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tai_sao toi lai phai lam vay
+L765 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tai_sao toi lai phai lam vay
+L766 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung cau lon len cung nhau
+L767 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau da o day bao_lau roi
+L768 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that kho de noi
+L769 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ that kho de noi
+L770 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi doan chac la vai thang
+L771 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi doan chac la vai thang
+L772 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ noi nay la noi nao
+L773 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ noi nay la noi nao
+L774 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co rat nhieu tin_don nhu kieu than_thoai
+L775 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ than_thoai hy lap u
+L776 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vung_dat cua su chet_choc
+L777 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ neu muon ai do bien mat sao khong giet ho phat la xong
+L778 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ neu the thi the_gioi se biet ho da chet
+L779 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ neu chung_ta lieu_linh vao do chung_ta se tu minh mac bay
+L780 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau khong nghi toi co_the xu_ly duoc a
+L781 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong nghi toi co_the xu_ly duoc a
+L782 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ viec nay kho hon bat_ky nhung viec ta da tung lam
+L783 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ viec nay kho hon bat_ky nhung viec ta da tung lam
+L784 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi
+L785 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi cau da thang
+L786 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chua dau
+L787 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong_the bo_cuoc
+L788 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau thi biet gi ve viec tu_bo
+L789 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau tim ho di toi muon vao do
+L790 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi se lien_lac
+L791 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi se lien_lac
+L792 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ nhung ke chung_ta co_the tin_tuong deu dang o day
+L793 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhung ke chung_ta co_the tin_tuong deu dang o day
+L794 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay san_sang
+L795 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau chua bao_gio muon hoc cach choi tro go anh khuyen la cau nen hoc thu
+L796 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ su kien_nhan la dieu quan_trong nhat khi choi tro_choi nay
+L797 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung_ta co bo_cuc chung_ta biet cac hoat_dong cua ho
+L798 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ con su tro_giup thi sao
+L799 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ con su tro_giup thi sao
+L800 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_ta dang duoc bao_ke
+L801 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ han dang cat lien_lac cua chung_ta da ngat lien_ket
+L802 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the con cac ro_bot mang cua chung_ta thi sao
+L803 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the con cac ro_bot mang cua chung_ta thi sao
+L804 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ no van dang hoat_dong nhung bi gioi_han
+L805 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ong lam cach nao de vuot qua me_cung
+L806 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ men theo ben phai
+L807 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi se quay lai cuu luke
+L808 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi toi se vao phong dieu_khien
+L809 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi toi se vao phong dieu_khien
+L810 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ yusheng di voi toi
+L811 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chua chac dau
+L812 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi
+L813 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ duoc roi
+L814 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi bo_cuoc cau da bat duoc toi
+L815 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lau roi khong gap
+L816 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bo_do dep day con gau teddy cua cau dau roi
+L817 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hay xem cau co_the lam gi khi khong co may thu cong_nghe
+L818 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sau khi toi dam vao mat cau toi se dong dinh cau nhoc
+L819 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co bo lo dieu gi khong
+L820 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi doan chung_ta hoa roi
+L821 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi doan chung_ta hoa roi
+L822 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cam_on
+L823 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cam_on
+L824 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ vang
+L825 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay
+L826 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ thu_gian nao cau day roi
+L827 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ thu_gian nao cau day roi
+L828 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rat vui khi cau tham_gia cung chung_toi
+L829 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ rat vui khi anh da tham_gia cung chung_toi
+L830 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co chut thoi_gian ranh thoi
+L831 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co chut thoi_gian ranh thoi
+L832 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ len xe len di vao trong
+L833 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau nghe thay toi noi khong
+L834 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ rat vui vi duoc nghe giong cua cau
+L835 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ rat vui vi duoc nghe giong cua cau
+L836 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ shu va yusheng da an_toan roi
+L837 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ thay the_nao
+L838 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ke_hoach b thuc_su da hieu_qua
+L839 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ke_hoach b thuc_su da hieu_qua
+L840 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay nho rang shu voi tri_oc va su kien_nhan khong co gi la khong_the
+L841 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ai do co_the cho toi biet chung_ta dang o dau khong
+L842 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau muon noi voi anh ta khong be bu
+L843 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau muon noi voi anh ta khong be bu
+L844 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong
+L845 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cat quan_ao cua cau o do
+L846 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi co_the tu lam
+L847 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co_the tu lam
+L848 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ se vui_ve hon neu cung nhau
+L849 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau di khong
+L850 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ di dau
+L851 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ di dau
+L852 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ di khong
+L853 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ di khong
+L854 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_ta se bi lac
+L855 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung_ta se bi lac
+L856 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong dau nao
+L857 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong dau nao
+L858 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_ta phai o lai day bao_lau
+L859 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung_ta phai o lai day bao_lau
+L860 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_ta se khong bao_gio khoe lai
+L861 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xem chi co gi nay
+L862 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ do la gi vay
+L863 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ do la gi vay
+L864 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ mot banh_xe
+L865 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ mot banh_xe
+L866 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ va banh_xe nay lam duoc gi
+L867 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ va banh_xe nay lam duoc gi
+L868 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau ngoi len do va no xoay tron
+L869 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung_ta se ve chu
+L870 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao khong nao
+L871 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toi co nen noi voi cau mot bi_mat khong
+L872 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co
+L873 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau co cam_nhan duoc no khong
+L874 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ co
+L875 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co
+L876 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ no day roi
+L877 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ no day roi
+L878 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ anh day roi
+L879 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Viet_Nam the_nao anh ban
+L880 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tuyet lam
+L881 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chuyen gi vay
+L882 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau chay mau kia
+L883 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nay cau moi cat toc a
+L884 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dung vay
+L885 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cho toi mot ly ca_phe nhe
+L886 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc thoi
+L887 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nuoc_chanh cua cau day
+L888 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ toi co goi nuoc_chanh dau
+L889 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau biet to dang nghi gi khong
+L890 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o khong
+L891 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau cat toc cho may ga kia to nghi cau se thich cat cho to
+L892 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ con lau
+L893 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ con lau
+L894 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao khong
+L895 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ to la mot dua dang ghet va rat hay dieu_khien nguoi khac
+L896 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong dau phai the
+L897 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ai cho cau so dien_thoai o day
+L898 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o ai se lam chuyen nay nhi
+L899 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co ai biet tho_may nao tot tot khong
+L900 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau can sua quan a
+L901 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau can sua quan a
+L902 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong to can tim mot ong de ve len nguoi to bang phan may
+L903 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong to can tim mot ong de ve len nguoi to bang phan may
+L904 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao cau khong den nha to toan den cho ong ay
+L905 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao cau khong den nha to toan den cho ong ay
+L906 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ ong ay may cho to bo dau_tien hoi to 15 tuoi
+L907 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ gap cau sao nhe
+L908 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc roi chao
+L909 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau nham_mat vao mot luc duoc khong
+L910 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong khong to khong bi lua tiep dau
+L911 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chuyen gi the
+L912 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ dai_khai la to lam mot viec kha la ngu_ngoc toi_qua
+L913 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ dai_khai la to lam mot viec kha la ngu_ngoc toi_qua
+L914 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau da lam_viec ngoc gi nao
+L915 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau quen la cau da da anh ra vi anh ta tan_tinh phoebe a
+L916 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ troi oi to biet to dien roi to that te_hai
+L917 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ troi oi to biet to dien roi to that te_hai
+L918 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cung oi cau khong dien cau chi dang buon thoi ma
+L919 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the la cau lai quay lai ha
+L920 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u quay lai co sao khong
+L921 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ u quay lai co sao khong
+L922 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong chang_sao ca
+L923 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong chang_sao ca
+L924 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tot khong co thi tot
+L925 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ong ta hieu the nghia_la gi
+L926 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau chac rang ong ta se giai_ma duoc mat_ma do chu
+L927 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ nhung cau phai hua rang cau khong duoc to ra quyen_hanh va ra_lenh to
+L928 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ to hua
+L929 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ day la bo toc y_het cua anh ay
+L930 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ y_het anh nao
+L931 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ y_het anh nao
+L932 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ demi
+L933 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ demi
+L934 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ demi khong phai la anh
+L935 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the ai la demi moore
+L936 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ la co dien_vien trong phim
+L937 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ la co dien_vien trong phim
+L938 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ o co ta co toc dep lam
+L939 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ o co ta co toc dep lam
+L940 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the nen to moi muon cat giong co ta
+L941 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ toc thi sao roi
+L942 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ to se khong noi_doi cac cau nhung trong khong he tot
+L943 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ to se khong noi_doi cac cau nhung trong khong he tot
+L944 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau khong lam gi duoc a
+L945 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong lam gi duoc a
+L946 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bay_gio chung_ta phai cho thoi
+L947 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau sao roi
+L948 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ to khong sao
+L949 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cai tay tho_may cua cau la mot nguoi rat xau_xa
+L950 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ frankie a cau noi cai gi vay
+L951 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ frankie a cau noi cai gi vay
+L952 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tay tho may sam_so to
+L953 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tay tho may sam_so to
+L954 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ lam_gi co chuyen to may o day 12 nam roi
+L955 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ ross noi voi cau ay di co phai ho lam the khong
+L956 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u dung the day o trong tu
+L957 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ u dung the day o trong tu
+L958 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau bi lam_sao the
+L959 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau bi lam_sao the
+L960 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ sao
+L961 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ sao
+L962 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the khong phai a
+L963 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ to phai di day chao
+L964 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ tam_biet
+L965 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tu_tu anh di a
+L966 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u thuong thi anh di khi anh noi tam_biet
+L967 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ u thuong thi anh di khi anh noi tam_biet
+L968 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ chung_ta noi_chuyen mot_chut duoc khong
+L969 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau qua tot so voi 1 dua nhu vay
+L970 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ that sao
+L971 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ that sao
+L972 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau xung_dang voi mot nguoi biet tran_trong cau
+L973 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the chuyen thu 2 la gi
+L974 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ khong to nghi chi co vay thoi
+L975 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ khong to nghi chi co vay thoi
+L976 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the thi to phai di day
+L977 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the thi to phai di day
+L978 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ u cam_on
+L979 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ lieu to co_the hoi cau mot cau duoc khong
+L980 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ duoc chu
+L981 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ tap_de cua cau tuot roi de to
+L982 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ xong roi day
+L983 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ xong roi day
+L984 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cam_on nhe
+L985 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ co ai muon di mua do giam_gia khong
+L986 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ to se di cung cau hay qua
+L987 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ cau khong_the di shopping cung co ay duoc cau se noi sao voi rachel
+L988 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ se co van_de a
+L989 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chung minh da di shopping va an trua cung nhau
+L990 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ the to an gi
+L991 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ the to an gi
+L992 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ coi nhu cau an salat
+L993 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ chao co gi moi khong
+L994 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ to di shopping voi monica ca ngay va to an salat
+L995 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ to di shopping voi monica ca ngay va to an salat
+L996 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ hay day pheeps the cau mua gi
+L997 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hay day pheeps the cau mua gi
+L998 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ bon to mua ao_long thu
+L999 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ bon to mua ao_long thu
+L1000 +++$+++ u0 +++$+++ m0 +++$+++ CAMERON +++$+++ cau mua ao_long thu a
