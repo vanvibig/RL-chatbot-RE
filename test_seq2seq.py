@@ -17,7 +17,8 @@ dim_wordvec = 300
 # dim_hidden = 1000
 dim_hidden = 512
 input_sequence_length = 22
-target_sequence_length = 22
+output_sequence_length = 22
+learning_rate = 0.0001
 
 # batch_size = 2
 batch_size = 1
@@ -27,9 +28,16 @@ def test(model_path=forward_model_path):
     word_vectors = KeyedVectors.load_word2vec_format('model/word_vector.bin', binary=True)
 
     _, index_to_word, _ = data_parser.preProBuildWordVocab(word_count_threshold=word_count_threshold)
+    # model = Chatbot(dim_wordvec, len(index_to_word), dim_hidden,
+    #                 batch_size,
+    #                 input_sequence_length, target_sequence_length,
+    #                 Training=False)
+
     model = Chatbot(dim_wordvec, len(index_to_word), dim_hidden,
                     batch_size,
-                    input_sequence_length, target_sequence_length,
+                    input_sequence_length,
+                    output_sequence_length,
+                    learning_rate,
                     Training=False)
 
     place_holders, predictions, logits = model.build_model()
