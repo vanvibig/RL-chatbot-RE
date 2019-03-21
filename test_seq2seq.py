@@ -20,8 +20,8 @@ input_sequence_length = 22
 output_sequence_length = 22
 learning_rate = 0.0001
 
-# batch_size = 2
-batch_size = 1
+batch_size = 2
+# batch_size = 1
 
 def test(model_path=forward_model_path):
     testing_data = open(path_to_questions, 'r', encoding='utf-8', errors='ignore')
