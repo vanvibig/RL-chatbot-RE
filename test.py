@@ -79,3 +79,4 @@ def test(model_path=forward_model_path):
 forward_model_path = "model/forward/seq2seq"
 if __name__ == "__main__":
     test("model/forward/seq2seq")
+    test("model/forward/seq2seq")
