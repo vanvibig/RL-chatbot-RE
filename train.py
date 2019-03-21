@@ -254,6 +254,6 @@ def pg_train(epochs=epochs, checkpoint=False):
 
 if __name__ == "__main__":
     	
-    train(forward_, forward_epochs, False)
-    train(reverse_, reverse_epochs, False)
+    train(forward_, 100, False)
+    train(reverse_, 100, False)
     pg_train(100, False)
