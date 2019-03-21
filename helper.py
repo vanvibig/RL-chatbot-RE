@@ -195,7 +195,7 @@ def index2sentence(generated_word_index, prob_logit, ixtoword):
                 curindex = np.where(prob_logit[i] == sort_prob_logit[(-2)-count])[0][0]
                 count+=1
             generated_word_index[i] = curindex
-    generated_words = = []
+    generated_words = []
     for ind in generated_word_index:
         generated_words.append[ixtoword[ind]]
     generated_sentence = ' '.join(generated_words)
