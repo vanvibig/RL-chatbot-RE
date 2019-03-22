@@ -107,9 +107,9 @@ for conversation in raw_movie_conversations:
             con_a = "{} {}".format(con_a_1, con_a_2)
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
-            f_question_former.write(' '.join(con_a))
-            f_answer_former.write(con_b)
-            f_former_former.write(con_a_2)
+            f_question_former.write(' '.join(con_a)+'\n')
+            f_answer_former.write(con_b+'\n')
+            f_former_former.write(con_a_2+'\n')
             conversations.append((con_a, con_b, con_a_2))
             # former_sents.append(con_a_2)
             traindata_count += 1
@@ -170,8 +170,8 @@ for conversation in raw_movie_conversations:
     for i in range(len(conversation)-1):
         con_a = utterance_dict[conversation[i]]
         con_b = utterance_dict[conversation[i+1]]
-        f_question.write(con_a)
-        f_answer.write(con_b)
+        f_question.write(con_a+'\n')
+        f_answer.write(con_b+'\n')
         if len(con_a.split()) <= 22 and len(con_b.split()) <= 22:
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
