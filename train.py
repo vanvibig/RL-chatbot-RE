@@ -80,8 +80,9 @@ def train(type_, epochs=epochs, checkpoint=False):
         for batch in range(n_batch):
             batch_input, batch_target = dr.generate_training_batch(batch_size)
 
-            print('batch_input: {}'.format(batch_input[0]))
-            print('batch_target: {}'.format(batch_target[0]))
+            if batch == 1:
+                print('batch_input: {}'.format(batch_input[0]))
+                print('batch_target: {}'.format(batch_target[0]))
 
             inputs_ = h.make_batch_input(batch_input,
                                          input_sequence_length,
@@ -169,8 +170,9 @@ def pg_train(epochs=epochs, checkpoint=False):
             batch_input, batch_caption, prev_utterance = dr.generate_training_batch_with_former(
                 batch_size)
 
-            print('batch_input: {}'.format(batch_input[0]))
-            print('batch_target: {}'.format(batch_caption[0]))
+            if batch == 1:
+                print('batch_input: {}'.format(batch_input[0]))
+                print('batch_target: {}'.format(batch_caption[0]))
 			
             targets, masks = h.make_batch_target(
                 batch_caption,
