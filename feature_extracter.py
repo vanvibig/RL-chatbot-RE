@@ -9,6 +9,8 @@ from gensim.models import word2vec, KeyedVectors
 
 WORD_VECTOR_SIZE = 300
 
+MAX_SEQUENCE_LENGTH = 10
+
 raw_movie_conversations = open('data/movie_conversations.txt', 'r', encoding='utf-8', errors='ignore').read().split('\n')[:-1]
 
 utterance_dict = pickle.load(open('data/utterance_dict', 'rb'))
@@ -44,7 +46,7 @@ for conversation in raw_movie_conversations:
     for i in range(len(conversation)-1):
         con_a = utterance_dict[conversation[i+1]].strip()
         con_b = utterance_dict[conversation[i]].strip()
-        if len(con_a.split()) <= 22 and len(con_b.split()) <= 22:
+        if len(con_a.split()) <=MAX_SEQUENCE_LENGTH and len(con_b.split()) <=MAX_SEQUENCE_LENGTH:
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
             conversations.append((con_a, con_b))
@@ -103,7 +105,7 @@ for conversation in raw_movie_conversations:
     for i in range(len(conversation)-1):
         con_a_2 = utterance_dict[conversation[i]]
         con_b = utterance_dict[conversation[i+1]]
-        if len(con_a_1.split()) <= 22 and len(con_a_2.split()) <= 22 and len(con_b.split()) <= 22:
+        if len(con_a_1.split()) <=MAX_SEQUENCE_LENGTH and len(con_a_2.split()) <=MAX_SEQUENCE_LENGTH and len(con_b.split()) <=MAX_SEQUENCE_LENGTH:
             con_a = "{} {}".format(con_a_1, con_a_2)
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
@@ -138,7 +140,7 @@ for conversation in raw_movie_conversations:
     for i in range(len(conversation)-1):
         con_a_2 = utterance_dict[conversation[i]]
         con_b = utterance_dict[conversation[i+1]]
-        if len(con_a_1.split()) <= 22 and len(con_a_2.split()) <= 22 and len(con_b.split()) <= 22:
+        if len(con_a_1.split()) <=MAX_SEQUENCE_LENGTH and len(con_a_2.split()) <=MAX_SEQUENCE_LENGTH and len(con_b.split()) <=MAX_SEQUENCE_LENGTH:
             con_a = "{} {}".format(con_a_1, con_a_2)
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
@@ -172,7 +174,7 @@ for conversation in raw_movie_conversations:
         con_b = utterance_dict[conversation[i+1]]
         f_question.write(con_a+'\n')
         f_answer.write(con_b+'\n')
-        if len(con_a.split()) <= 22 and len(con_b.split()) <= 22:
+        if len(con_a.split()) <=MAX_SEQUENCE_LENGTH and len(con_b.split()) <=MAX_SEQUENCE_LENGTH:
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
             conversations.append((con_a, con_b))
