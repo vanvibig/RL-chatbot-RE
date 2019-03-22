@@ -48,18 +48,22 @@ def test(model_path=forward_model_path):
             question = [h.refine(w) for w in question.lower().split()]
             question = [word_vectors[w] if w in word_vectors else np.zeros(dim_wordvec) for w in question]
 
+            print('q1: ',question)
             question.insert(0, np.random.normal(size=(dim_wordvec,)))
-
+            print('q2: ',question)
             if len(question) > input_sequence_length:
                 question =  question[: input_sequence_length]
             else:
                 for _ in range(input_sequence_length - len(question)):
                     question.append(np.zeros(dim_wordvec))
-            
+            print('q3: ',question)
             question = np.array([question])
-
+            print('q4: ',question)
+            # feed_dict = {
+            #     place_holders['word_vectors']: np.concatenate([question]*2,0)
+            # }
             feed_dict = {
-                place_holders['word_vectors']: np.concatenate([question]*2,0)
+                place_holders['word_vectors']: question
             }
 
             word_indices, prob_logit = sess.run(
