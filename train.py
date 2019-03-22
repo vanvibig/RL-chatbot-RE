@@ -170,7 +170,7 @@ def pg_train(epochs=epochs, checkpoint=False):
                 batch_size)
 
             print('batch_input: {}'.format(batch_input[0]))
-            print('batch_target: {}'.format(batch_caption[]))
+            print('batch_target: {}'.format(batch_caption[0]))
 			
             targets, masks = h.make_batch_target(
                 batch_caption,
