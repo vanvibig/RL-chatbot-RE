@@ -82,6 +82,10 @@ np.save("data/reversed_lenmax22_b_list", np.array(len_b_list))
 print("max_a_ind {}, max_b_ind {}".format(max_a_ind, max_b_ind))
 print("max_a {}, max_b {}, avg_a {}, avg_b {}".format(max_a, max_b, sum_a/len(conversations), sum_b/len(conversations)))
 
+f_question_former = open('data/f_question_former.txt', "w", encoding='utf-8', errors='ignore')
+f_answer_former = open('data/f_answer_former.txt', "w", encoding='utf-8', errors='ignore')
+f_former_former = open('data/f_answer_former.txt', "w", encoding='utf-8', errors='ignore')
+
 ts = time.time()
 conversations = []
 # former_sents = []
@@ -103,6 +107,9 @@ for conversation in raw_movie_conversations:
             con_a = "{} {}".format(con_a_1, con_a_2)
             con_a = [refine(w) for w in con_a.lower().split()]
             # con_a = [word_vector[w] if w in word_vector else np.zeros(WORD_VECTOR_SIZE) for w in con_a]
+            f_question_former.write(con_a)
+            f_answer_former.write(con_b)
+            f_former_former.write(con_a_2)
             conversations.append((con_a, con_b, con_a_2))
             # former_sents.append(con_a_2)
             traindata_count += 1
@@ -145,6 +152,9 @@ for conversation in raw_movie_conversations:
 pickle.dump(conversations, open('data/conversations_lenmax22_former_sents2', 'wb'), True)
 print("Time Elapsed: {} secs\n".format(time.time() - ts))
 
+f_question = open('data/f_question.txt', "w", encoding='utf-8', errors='ignore')
+f_answer = open('data/f_answer.txt', "w", encoding='utf-8', errors='ignore')
+
 ts = time.time()
 conversations = []
 print('len conversation', len(raw_movie_conversations))
@@ -159,6 +169,8 @@ for conversation in raw_movie_conversations:
     assert len(conversation) > 1
     for i in range(len(conversation)-1):
         con_a = utterance_dict[conversation[i]]
+        f_question.write(con_a)
+        f_answer.write(con_b)
         con_b = utterance_dict[conversation[i+1]]
         if len(con_a.split()) <= 22 and len(con_b.split()) <= 22:
             con_a = [refine(w) for w in con_a.lower().split()]
