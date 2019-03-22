@@ -84,7 +84,7 @@ print("max_a {}, max_b {}, avg_a {}, avg_b {}".format(max_a, max_b, sum_a/len(co
 
 f_question_former = open('data/f_question_former.txt', "w", encoding='utf-8', errors='ignore')
 f_answer_former = open('data/f_answer_former.txt', "w", encoding='utf-8', errors='ignore')
-f_former_former = open('data/f_answer_former.txt', "w", encoding='utf-8', errors='ignore')
+f_former_former = open('data/f_former_former.txt', "w", encoding='utf-8', errors='ignore')
 
 ts = time.time()
 conversations = []
