@@ -59,12 +59,12 @@ def test(model_path=forward_model_path):
             print('q3: ',question)
             question = np.array([question])
             print('q4: ',question)
-            # feed_dict = {
-            #     place_holders['word_vectors']: np.concatenate([question]*2,0)
-            # }
             feed_dict = {
-                place_holders['word_vectors']: question
+                place_holders['word_vectors']: np.concatenate([question]*2,0)
             }
+            # feed_dict = {
+            #     place_holders['word_vectors']: question
+            # }
 
             word_indices, prob_logit = sess.run(
                 [predictions, logits],
